@@ -1,0 +1,4 @@
+- 👋 Hey, I’m Anthone! (@anthonejeorge)
+- 👀 I’m interested in Code, Music, English and Comedy
+- 🌱 I’m currently and constantly improving Data Structures, Algorithms, Design Patterns, Java Spring Framework, JS Node and TypeScript, Architecture, Cloud, alternative programming approaches
+- 📫 anthonejeorge@gmail.com
